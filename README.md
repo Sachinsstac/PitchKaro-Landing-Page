@@ -77,17 +77,15 @@ That’s it! 👌
 🚀 Future Improvements
 
 Add animations & transitions
-
 Build a backend for signup/login
-
 Add contact & newsletter forms
-
 Integrate with real startup data
 
-📌 License
+# Made with ❤️ by Sachin
 
-This project is free to use and modify.
 
-📌 Acknowledgements
 
-Thanks to all online resources and tutorials that helped in building this project.
+
+📧 Contact
+For feedback, suggestions, or queries, reach out at:<br>
+📩 Email : sachin.962545@gmail.com
