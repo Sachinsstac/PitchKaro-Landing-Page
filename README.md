@@ -77,8 +77,11 @@ That’s it! 👌
 🚀 Future Improvements
 
 Add animations & transitions
+
 Build a backend for signup/login
+
 Add contact & newsletter forms
+
 Integrate with real startup data
 
 # Made with ❤️ by Sachin
