@@ -5,6 +5,13 @@ PitchKaro is a responsive, modern landing page built with HTML, CSS, and JavaScr
 
 This landing page highlights key features of the platform and guides users through structured content sections designed for clarity and engagement.
 
+
+## 🚀 Live Demo
+Experience the app live:  
+👉 [PitchKaro Landing Page](https://karopitchh.netlify.app/)
+
+
+
 ## 📸 Screenshots
 ![Hero Section](/PitchKaro%20ScreenShots/Screenshot%202026-03-10%20000214.png)
 ![Hero Section](/PitchKaro%20ScreenShots/Screenshot%202026-03-10%20000331.png)
